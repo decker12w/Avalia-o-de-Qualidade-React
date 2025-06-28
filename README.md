@@ -1,4 +1,6 @@
 # Avaliação de Qualidade: Sistema de Gerenciamento de Tarefas
+## PRAZO DE ENTREGA 06/07/2025
+
 
 ## Descrição
 
