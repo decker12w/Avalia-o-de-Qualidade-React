@@ -1,0 +1,1 @@
+# Avalia-o-de-Qualidade-React
